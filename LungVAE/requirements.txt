@@ -1,0 +1,11 @@
+carbontracker==1.1.6
+matplotlib==3.5.0
+numpy==1.21.2
+pandas==1.4.2
+Pillow==9.1.1
+pydicom==2.2.2
+scikit_learn==1.1.1
+scipy==1.8.1
+scikit-image==0.19.2
+torch==1.11.0
+torchvision==0.12.0
